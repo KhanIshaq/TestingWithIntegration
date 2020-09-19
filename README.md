@@ -1,2 +1,5 @@
-Unit Testing : Jest
-Continuous Integration : CircleCI
+### Unit Testing
+- Jest
+
+### Continuous Integration
+- CircleCI
