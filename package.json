@@ -1,0 +1,19 @@
+{
+  "name": "com.ishaqkhan.testingwithintegration",
+  "version": "1.0.0",
+  "description": "Exploring Unit Testing and Continuous Integration",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "continuous",
+    "integration"
+  ],
+  "author": "Ishaq Khan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  }
+}
